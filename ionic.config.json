@@ -1,0 +1,7 @@
+{
+  "name": "ionic-segment-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
